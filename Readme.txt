@@ -1,4 +1,4 @@
-SimpleSearch, is a simple program which can be used to avoid the hastle of opening your browser (and wait for it to load) SimpleSearch uses you "Default Browser" to make a quick search using Google. This is a initial build which provides a quick google search.
+SimpleSearch, is a simple program which can be used to avoid the hassle of opening your browser (and wait for it to load) SimpleSearch uses you "Default Browser" to make a quick search using Google. This is a initial build which provides a quick google search.
 
 To Run > Double click Simplesearch.exe
 
