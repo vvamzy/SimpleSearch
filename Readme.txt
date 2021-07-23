@@ -2,8 +2,9 @@ SimpleSearch, is a simple program which can be used to avoid the hassle of openi
 
 To Run > Double click Simplesearch.exe
 
-* This program uses your "Default Browser" to open webpages. So make sure the browser you use as daily driver is set to Default.
+*This program uses your "Default Browser" to open webpages. So make sure the browser you use as daily driver is set to Default.
 
 In Windows > click start and search Default apps > Web Browser
 
-Simplesearch.exe shouldn't be moved from the directory doing so the program will not run.
+*Simplesearch.exe shouldn't be moved from the directory doing so the program will not execute.
+
